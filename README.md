@@ -41,6 +41,28 @@ The ISO is an 'official' ISO from [Windows ISO](http://windowsiso.net/windows-10
 * View 3d Preview
 * Voice Recorder
 
+#### The following features have been removed from the ISO by MSMG
+
+* Microsoft Connect App
+* Microsoft OneDrive Desktop Client
+* Microsoft Telemetry Services
+* Microsoft Skype ORTC
+* Windows Desktop File Explorer App
+* Windows Embedded Features
+* Windows Home Group
+* Windows Mixed Reality
+* Windows People Experience Host
+* Windows Quick Assist App
+* Windows Take Test App
+* Adobe Flash For Windows
+* Edge Browser
+* Microsoft Hyper-V
+* Internet Explorer UI
+* Windows Cortana & Start Menu Search
+* Windows Defender
+* Windows System Restore
+* Windows Search
+
 
 #### RemoveServices.bat will DELETE the following services;
 These services will still run even if you disable them, You can observe this from KernelLand.
