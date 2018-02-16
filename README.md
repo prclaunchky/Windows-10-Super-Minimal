@@ -52,12 +52,33 @@ These services will still run even if you disable them, You can observe this fro
 * Remote Desktop Connection Managers x 2
 * Remote Registry
 
+
 #### RemoveServices.bat will DISABLE the following services;
 * Diagnostic Services
 * Diagnostic Services UserHost
 * Diagnostic Services SystemHost
 
 
-In addition to the removals made by MSMG and RemoveServices.bat you can/must also run "SuperEdgy.bat" to remove/disable the remaining annoying services like event log and network services that are pointless for most people.
+#### SuperParanoid.bat will DELETE the following services;
+
+* Network Location Awareness
+* Network List Service
+* App V Client
+* Windows Event Collector
+* Error Reporting Service
+* Event Log
+* Remote Desktop can still be exploited, Lets fix that
+* RD Video Minport
+* RD USB Hub Class Filter Driver
+* RD USB Hub
+* RD Generic USB Device
+* RD Device Redirector Driver
+* RD Device Redirector Bus Driver
+* Remote Access PPPOE Driver
+* Remote Access NDIS WAN Driver
+* Remote Access TAPI Wan Driver
+* Remote Access LEGACY NDIS WAN Driver
+* Remote Access IPv6 ARP Driver
+
 
 These changes will not affect your ability to use your PC in any way and windows update will still work.
