@@ -11,7 +11,6 @@ The ISO is an 'official' ISO from [Windows ISO](http://windowsiso.net/windows-10
 * Weather
 * Xbox App
 * Xbox Gameoverlay
-* Xbox Identity Provider
 * Xbox Game Speech Service
 * Alarms and Clock
 * Calculator
