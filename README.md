@@ -1,4 +1,4 @@
-# Windows 10 x64 - 1709 - Super Minimal Install
+# Windows 10 x64 - 1709 - All Editions - Super Minimal Install
 ### [Download the ISO from Google Drive](https://drive.google.com/open?id=1aI7pdDj5zwz1F0dP4JXV1iAGG0hAoWpB)
 
 This is an ISO that has been completely stripped down and had all the bloatware/spyware/malfeatures possible removed without compromising the system.
